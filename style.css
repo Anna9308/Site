@@ -1,0 +1,31 @@
+ body {
+    background-color:rgb(179, 179, 236);
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+    max-width: 65rem;
+    margin: 0 auto;
+ 
+ }
+q {
+font-style: italic;
+    font-size: 15px;
+
+ }
+
+ .my-cat {
+     background-color: rgb(182, 137, 137);
+ }
+
+ button {
+   background-color: rgb(38, 180, 85);
+   font-size: 20px;
+   width: 100% ;
+ }
+ .about {
+    font-size: 20px;
+    padding-left: 20px;
+ }
+
+ .maket {
+    width: 100%; 
+    vertical-align: top;
+   }
